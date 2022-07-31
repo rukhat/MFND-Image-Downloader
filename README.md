@@ -1,1 +1,3 @@
-Use downloader.ipynb if main.py does not work
+#Use downloader.ipynb if main.py does not work
+
+#Create 'images' subfolder
